@@ -18,7 +18,7 @@
 核心的能力：个人认为，Top Ph.D. Student懂得设定一个长远的科研目标。这个科研目标具有重要的科学价值和实际价值 (在实际应用中寻找真正有价值的科学问题)。然后根据这个科研目标细化科研的Roadmap。博士期间做的几篇论文都是围绕着解决这个科研目标，并且做的论文能够清晰地展示出自己沿Roadmap的科研进展，论文Demo要尽量很酷（例子：[博士生的楷模：Sebastian Starke](https://pengsida.notion.site/Sebastian-Starke-1713fe292ff1808eb33be93ea2d79ad9?pvs=4)）。
 
 在实际做科研过程中，Ph.D. Student需要有五方面的能力：寻找重要的科研问题、提出解决方案、做实验、写论文、做Presentation。下面是一些具体的建议。
-1. [如何入门3D Vision的科研](./getting_started_in_research.md)
+1. [如何在科研上起步](./getting_started_in_research.md)
 2. [如何培养自己的科研能力 (寻找科研问题、想Idea、做实验、与导师Meet)](./getting_advanced_in_research.md)
 3. [如何做Research Project（博士生应该具有的能力）](https://pengsida.notion.site/research-project-b43507ef26d044bd888ac29f4736e116)
 4. 论文写作
